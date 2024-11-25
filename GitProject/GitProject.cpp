@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::cout << "Hello GitHub World\n";
+    std::cout << "Hello GitHub World \n";
 
     std::cout << "PullRequest branch changed\n";
 }
